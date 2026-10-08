@@ -1,17 +1,5 @@
-# i_am_rich
+# Lab 1: I Am Rich
 
-A new Flutter project.
+Ứng dụng Flutter cơ bản hiển thị ảnh kim cương và dòng chữ I Am Rich.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kiến thức: Flutter SDK, Material Design, Cupertino Icons, quản lý assets trong pubspec.yaml.
